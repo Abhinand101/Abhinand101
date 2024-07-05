@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandkk101&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandkk101" /> </p>
 
-- 💬 Ask me about **Python,MySQL**
+- 💬 Ask me about **Python,MySQL,PowerBI,Excel,ML Algorithms**
 
 - 📫 How to reach me **Abhinandkk101@gmail.com**
 
