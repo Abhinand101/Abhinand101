@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.8e6ef93e1c1c5f23f823481553fc3146?rik=aK3EsOFCN3aUtg&riu=http%3a%2f%2fdigitalmarketingtrends.in%2fwp-content%2fuploads%2f2018%2f04%2fFuture-of-Machine-Learning-in-Digital-Marketing-Gif.gif&ehk=2QB6jTNS5g0CedfG%2f8oIZHJbkReYdvC8N19amDTeUc4%3d&risl=&pid=ImgRaw&r=0)
+
 <h1 align="center">Hi 👋, I'm Abhinand KK</h1>
 <h3 align="center">A Data Science Aspirer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:2800/0*hpyUPaBF9V3Mb5T6.gif">
